@@ -1,9 +1,9 @@
 import './project.css';
-import img from '../../images/portfolio/10.jpg';
 
 
 
-const Project = ({title, link}) => {
+
+const Project = ({img, title, link}) => {
     return(
             <div className="proj">
                 <div className="proj-browser">
@@ -15,7 +15,7 @@ const Project = ({title, link}) => {
                 <div className="proj-title"> {title}</div>
 
                     <a href={link} target="blank" rel='noreferrer'>
-                    <img src={img} alt="" className='proj-img'/>
+                    <img src={require(`../../images/portfolio/${img}.jpg`)} alt="" className='proj-img'/>
                     </a>
      
 

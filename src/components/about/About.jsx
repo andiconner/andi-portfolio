@@ -1,5 +1,5 @@
 import "./about.css"
-import Me from "../../images/about/about_img_blue.png"
+import Me from "../../images/about/about_img_2.png"
 
 const About = ({setCurrentPage}) => {
   return (
@@ -19,7 +19,7 @@ const About = ({setCurrentPage}) => {
             <h4>
             Thank you for visiting my site and willing to know more about me!
             </h4>
-            <button className="button" onClick = {() => setCurrentPage("portfolio")}>Reach Out</button>
+            <button onClick = {() => setCurrentPage("contact")}className="button" >Reach Out</button>
         </div>
         
         

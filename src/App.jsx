@@ -3,6 +3,7 @@ import About from "./components/about/About";
 import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
 import Portfolio from "./components/portfolio/Portfolio";
+import Contact from "./components/contact/Contact";
 import { useState } from "react";
 
 
@@ -15,6 +16,8 @@ const App = () => {
       return <About/>
     }else if (currentPage === 'portfolio'){
       return <Portfolio/>
+    }else if (currentPage === 'contact'){
+        return <Contact/>
     }else {
       return <Intro setCurrentPage ={setCurrentPage}/>
     }
