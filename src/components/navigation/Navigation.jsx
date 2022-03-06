@@ -23,7 +23,7 @@ function Navigation ({setCurrentPage}){
                 </li>
                 <li>
                     <a href="#contact" onClick = {() => setCurrentPage("contact")}>
-                    Contract
+                    Contact
                     </a>
                 </li>
                 <li className="">

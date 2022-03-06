@@ -1,7 +1,9 @@
-import './project.css'
+import './project.css';
+import img from '../../images/portfolio/10.jpg';
 
 
-const Project = ({img, title, link}) => {
+
+const Project = ({title, link}) => {
     return(
             <div className="proj">
                 <div className="proj-browser">
