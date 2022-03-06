@@ -1,13 +1,34 @@
 .a{
-    height: 100vh;
+    height: 800px;
     display: flex;
     align-items: center;
 }
 
 .a-left{
     flex: 1;
+    padding-top: 90px;
+    
+}
+.a-title{
+    padding: 20px;
+}
+.a-desc{
+    padding: 20px;
 }
 
 .a-right{
     flex: 1;
 }
+.a-img{
+    background-size: contain;
+}
+p{
+    line-height: 34px;
+}
+h4{
+    margin: 20px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #ea417f;  
+}
+

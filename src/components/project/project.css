@@ -1,0 +1,30 @@
+.proj {
+    width: 30%;
+    height: 40vh;
+    margin: 20px 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px 10px 0px 0px;
+    overflow: hidden;
+}
+.proj-browser {
+    height: 20px;
+    background-color: #ea417f;
+    display: flex;
+    align-items: center;
+}
+
+.proj-circle{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    margin: 3px;
+    background-color: #00B4D8;
+
+}
+.proj-title{
+    margin-top: 10px;
+}
+
+.proj-img{
+    width: 100%;
+}
