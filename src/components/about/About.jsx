@@ -1,11 +1,12 @@
-import "./about.css"
+import "./about.css";
+import React from "react";
 import Me from "../../images/about/about_img_2.png"
 
 const About = ({setCurrentPage}) => {
   return (
     <div className="a" id="about">
         <div className="a-left">
-            <img src={Me} className="a-img" style={{ width: "84%" }}/>
+            <img src={Me} className="a-img" style={{ width: "84%" }} alt="Andi Conner profile"/>
         </div>
         <div className="a-right">
             <h1 className="a-title">About Me</h1>
@@ -17,9 +18,9 @@ const About = ({setCurrentPage}) => {
             </p>
             
             <h4>
-            Thank you for visiting my site and willing to know more about me!
+              Thank you for visiting my site and willing to know more about me!
             </h4>
-            <button onClick = {() => setCurrentPage("contact")}className="button" >Reach Out</button>
+            <button onClick = {() => setCurrentPage("contact")} className="button">Reach Out</button>
         </div>
         
         

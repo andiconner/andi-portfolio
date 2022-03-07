@@ -10,10 +10,10 @@
     
 }
 .a-title{
-    padding: 20px;
+    padding: 20px 0px 20px 0px;
 }
 .a-desc{
-    padding: 20px;
+    padding: 20px 0px 20px 0px;
 }
 
 .a-right{
@@ -22,13 +22,27 @@
 .a-img{
     background-size: contain;
 }
-p{
-    line-height: 34px;
+
+@media screen and (max-width: 480px) {
+    .a {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .a-left {
+        padding-top: 150px;
+        width: 100%;  
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 100%;
+    }
+    .a-right{
+      padding: 50px;
+    }
+
 }
-h4{
-    margin: 20px;
-    font-size: 22px;
-    font-weight: 400;
-    color: #ea417f;  
-}
+
+
+
 

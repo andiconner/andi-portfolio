@@ -1,5 +1,6 @@
-import myResume from '../../images/about/220111_andi_Conner.pdf'
-import './navigation.css'
+import React from "react";
+import myResume from '../../images/about/220111_andi_Conner.pdf';
+import './navigation.css';
 
 function Navigation ({setCurrentPage}){
     
@@ -7,11 +8,11 @@ function Navigation ({setCurrentPage}){
         <nav className='navigation'>
             <ul className='flex-row'>
             <li className="">
-                    <a href="#" onClick ={()=>setCurrentPage("home")}>
+                    <a href="#Intro" onClick ={()=>setCurrentPage("home")}>
                     Home
                     </a>
                 </li>
-                <li className="">
+                <li className="topnav responsive">
                     <a href="#about" onClick = {()=> setCurrentPage("about")}>
                     About me
                     </a>

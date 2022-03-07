@@ -16,3 +16,27 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 480px) {
+    .p-list {
+        flex-direction: column;
+        width: 100%;
+        padding-bottom: 30px;
+    }
+
+    .portfolio {
+        width: 100%;  
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 20vh;
+        display:block;
+        flex-direction: column;
+    }
+    .p-title{
+      padding-top: 50px;
+      padding-right:200px;
+      text-align: center;
+      
+    }
+}

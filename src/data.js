@@ -26,10 +26,11 @@ export const projects = [
     },
     {
         id: 5,
-        title: "Brand Design - Canton",
-        link: "",
+        title: "Brand & Web Design - Pecan's",
+        link: "http://pecansdayspacoralgables.com/",
         img: "5",
-    }, 
+    },
+    
     {
         id: 6,
         title: "Brand & Web Design - Results Medspa",
@@ -45,10 +46,11 @@ export const projects = [
     },
     {
         id: 8,
-        title: "INTERACT. FRONT-END PROJECT - Shelter",
-        link: "https://rebeccadherrera.github.io/shellter/",
+        title: "Brand Design - Canton",
+        link: "",
         img: "8",
     },
+   
     {
         id: 9,
         title: "SERVER-SIDE API PROJECT Weather Dashboard",
@@ -66,6 +68,13 @@ export const projects = [
         title: "MVC PROJECT - TechTalk",
         link: "https://tech-talk-by-ac.herokuapp.com/",
         img: "11",
+    },
+    
+    {
+        id: 12,
+        title: "INTERACT. FRONT-END PROJECT - Shelter",
+        link: "https://rebeccadherrera.github.io/shellter/",
+        img: "12",
     },
    
 

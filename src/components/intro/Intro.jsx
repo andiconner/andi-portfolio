@@ -1,5 +1,6 @@
-import "./intro.css"
-import Me from "../../images/about/about_img.png"
+import React from "react";
+import "./intro.css";
+import Me from "../../images/about/about_img.png";
 
 
 const Intro = ({setCurrentPage})=> {
@@ -12,9 +13,10 @@ const Intro = ({setCurrentPage})=> {
             <div className="i-title">
               <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">Graphic Designer</div>
-              <div className="i-title-item">Creative Mind</div>
+              <div className="i-title-item">Graphic Design</div>
+              <div className="i-title-item">Brand Design</div>
               <div className="i-title-item">Digital Marketing</div>
+              <div className="i-title-item">Photography</div>
             </div>
               
           </div>
@@ -22,12 +24,12 @@ const Intro = ({setCurrentPage})=> {
           An entrepreneurial--spirited creative with a business edge focus, global mindset, and proven ability to deliver results that align client visions with business goals.
           </p>
    
-            <button onClick = {() => setCurrentPage("about")} className="button">Learn More</button>
+            <button onClick = {() => setCurrentPage("about")} className="i-button">Learn More</button>
         
         </div>
         </div>
         <div className="i-right">
-          <img src={Me} className="a-img"/>
+          <img src={Me} className="a-img" alt="Andi Conner profile"/>
         </div>
     </div>
   )
