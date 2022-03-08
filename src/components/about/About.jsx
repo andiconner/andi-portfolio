@@ -1,6 +1,6 @@
 import "./about.css";
 import React from "react";
-import Me from "../../images/about/about_img_2.png"
+import Me from "../../images/about/about_img_3.png"
 
 const About = ({setCurrentPage}) => {
   return (

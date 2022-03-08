@@ -13,7 +13,7 @@ const App = () => {
     if (currentPage === 'home'){
       return <Intro setCurrentPage = {setCurrentPage}/>
     }else if(currentPage === 'about'){
-      return <About/>
+      return <About setCurrentPage={setCurrentPage}/>
     }else if (currentPage === 'portfolio'){
       return <Portfolio/>
     }else if (currentPage === 'contact'){

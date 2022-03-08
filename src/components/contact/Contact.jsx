@@ -35,11 +35,11 @@ const Contact = () => {
                     <div className="c-info">
                         <div className="c-info-item">
                             <img src={Phone} alt="" className="c-icon"/>
-                            (305)962-8784
+                            <a href="tel:305-962-8784">(305)962-8784</a>
                         </div>
                         <div className="c-info-item">
                             <img src={Email} alt="" className="c-icon"/>
-                            andiconner@icloud.com
+                            <a href="mailto:andi@icloud.com">andiconner@icloud.com</a>
                         </div>
                         <div className="c-info-item">
                             <img src={Address} alt="" className="c-icon"/>
