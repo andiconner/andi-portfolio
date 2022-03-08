@@ -7,7 +7,7 @@ import './footer.css';
 const Footer = () => {
     return(
         <section className='footer' id="footer">
-            <div className=''>
+            <div className='social'>
                 
                     
                             <a href='https://www.linkedin.com/in/andi-conner-74504062/'   target='blank' alt="Andi Conner LinkedIn" >
