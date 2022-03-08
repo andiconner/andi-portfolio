@@ -35,19 +35,11 @@ const Contact = () => {
                     <div className="c-info">
                         <div className="c-info-item">
                             <img src={Phone} alt="" className="c-icon"/>
-<<<<<<< HEAD
                             <a href="tel:305-962-8784">(305) 962-8784</a>
                         </div>
                         <div className="c-info-item">
                             <img src={Email} alt="" className="c-icon"/>
                             <a href="malito:andiconner@icloud.com">andiconner@icloud.com</a>
-=======
-                            <a href="tel:305-962-8784">(305)962-8784</a>
-                        </div>
-                        <div className="c-info-item">
-                            <img src={Email} alt="" className="c-icon"/>
-                            <a href="mailto:andi@icloud.com">andiconner@icloud.com</a>
->>>>>>> develop
                         </div>
                         <div className="c-info-item">
                             <img src={Address} alt="" className="c-icon"/>

@@ -1,13 +1,13 @@
 {
-  "main.css": "/andi-portfolio/static/css/main.94e6f782.chunk.css",
-  "main.js": "/andi-portfolio/static/js/main.c356067f.chunk.js",
-  "main.js.map": "/andi-portfolio/static/js/main.c356067f.chunk.js.map",
+  "main.css": "/andi-portfolio/static/css/main.877387fb.chunk.css",
+  "main.js": "/andi-portfolio/static/js/main.26623cae.chunk.js",
+  "main.js.map": "/andi-portfolio/static/js/main.26623cae.chunk.js.map",
   "static/js/1.9382b760.chunk.js": "/andi-portfolio/static/js/1.9382b760.chunk.js",
   "static/js/1.9382b760.chunk.js.map": "/andi-portfolio/static/js/1.9382b760.chunk.js.map",
   "runtime~main.js": "/andi-portfolio/static/js/runtime~main.2c0289d6.js",
   "runtime~main.js.map": "/andi-portfolio/static/js/runtime~main.2c0289d6.js.map",
   "static/media/about_img.png": "/andi-portfolio/static/media/about_img.2e2e2805.png",
-  "static/media/about_img_2.png": "/andi-portfolio/static/media/about_img_2.d91e4c16.png",
+  "static/media/about_img_3.png": "/andi-portfolio/static/media/about_img_3.ec35b0d1.png",
   "static/media/logo.svg": "/andi-portfolio/static/media/logo.e563484a.svg",
   "static/media/220111_andi_Conner.pdf": "/andi-portfolio/static/media/220111_andi_Conner.a624d145.pdf",
   "static/media/1.jpg": "/andi-portfolio/static/media/1.e71616e3.jpg",
@@ -22,8 +22,8 @@
   "static/media/7.jpg": "/andi-portfolio/static/media/7.395a7bb3.jpg",
   "static/media/8.jpg": "/andi-portfolio/static/media/8.808814fb.jpg",
   "static/media/9.jpg": "/andi-portfolio/static/media/9.882e5252.jpg",
-  "static/css/main.94e6f782.chunk.css.map": "/andi-portfolio/static/css/main.94e6f782.chunk.css.map",
+  "static/css/main.877387fb.chunk.css.map": "/andi-portfolio/static/css/main.877387fb.chunk.css.map",
   "index.html": "/andi-portfolio/index.html",
-  "precache-manifest.d4d43da25a0d22bb729625e22e10cc12.js": "/andi-portfolio/precache-manifest.d4d43da25a0d22bb729625e22e10cc12.js",
+  "precache-manifest.f06a1841ea2db4da70997b317bacda63.js": "/andi-portfolio/precache-manifest.f06a1841ea2db4da70997b317bacda63.js",
   "service-worker.js": "/andi-portfolio/service-worker.js"
 }
