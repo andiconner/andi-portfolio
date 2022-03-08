@@ -1,7 +1,7 @@
 {
   "main.css": "/andi-portfolio/static/css/main.877387fb.chunk.css",
-  "main.js": "/andi-portfolio/static/js/main.f27456ec.chunk.js",
-  "main.js.map": "/andi-portfolio/static/js/main.f27456ec.chunk.js.map",
+  "main.js": "/andi-portfolio/static/js/main.1fd43e46.chunk.js",
+  "main.js.map": "/andi-portfolio/static/js/main.1fd43e46.chunk.js.map",
   "static/js/1.9382b760.chunk.js": "/andi-portfolio/static/js/1.9382b760.chunk.js",
   "static/js/1.9382b760.chunk.js.map": "/andi-portfolio/static/js/1.9382b760.chunk.js.map",
   "runtime~main.js": "/andi-portfolio/static/js/runtime~main.2c0289d6.js",
@@ -24,6 +24,6 @@
   "static/media/9.jpg": "/andi-portfolio/static/media/9.882e5252.jpg",
   "static/css/main.877387fb.chunk.css.map": "/andi-portfolio/static/css/main.877387fb.chunk.css.map",
   "index.html": "/andi-portfolio/index.html",
-  "precache-manifest.05059857e205e53b9acf5ae6cf2f8aee.js": "/andi-portfolio/precache-manifest.05059857e205e53b9acf5ae6cf2f8aee.js",
+  "precache-manifest.67a47cf85a030238589a3170ba55cafd.js": "/andi-portfolio/precache-manifest.67a47cf85a030238589a3170ba55cafd.js",
   "service-worker.js": "/andi-portfolio/service-worker.js"
 }
