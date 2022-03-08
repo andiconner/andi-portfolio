@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "26623cae5e9c692f6181",
+    "revision": "f27456ec0ab36394118e",
     "url": "/andi-portfolio/static/css/main.877387fb.chunk.css"
   },
   {
-    "revision": "26623cae5e9c692f6181",
-    "url": "/andi-portfolio/static/js/main.26623cae.chunk.js"
+    "revision": "f27456ec0ab36394118e",
+    "url": "/andi-portfolio/static/js/main.f27456ec.chunk.js"
   },
   {
     "revision": "9382b7608ed9e4f370a2",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/andi-portfolio/static/media/9.882e5252.jpg"
   },
   {
-    "revision": "8182972f5c40c86864760c16ec837355",
+    "revision": "e65650fbe1eb03be989ed786ecfea050",
     "url": "/andi-portfolio/index.html"
   }
 ];
