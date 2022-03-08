@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c356067fb49032b4279b",
-    "url": "/andi-portfolio/static/css/main.94e6f782.chunk.css"
+    "revision": "26623cae5e9c692f6181",
+    "url": "/andi-portfolio/static/css/main.877387fb.chunk.css"
   },
   {
-    "revision": "c356067fb49032b4279b",
-    "url": "/andi-portfolio/static/js/main.c356067f.chunk.js"
+    "revision": "26623cae5e9c692f6181",
+    "url": "/andi-portfolio/static/js/main.26623cae.chunk.js"
   },
   {
     "revision": "9382b7608ed9e4f370a2",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/andi-portfolio/static/media/about_img.2e2e2805.png"
   },
   {
-    "revision": "d91e4c164ab7d4b1961c94c44c3e283d",
-    "url": "/andi-portfolio/static/media/about_img_2.d91e4c16.png"
+    "revision": "ec35b0d12bc4934483b5af7305104835",
+    "url": "/andi-portfolio/static/media/about_img_3.ec35b0d1.png"
   },
   {
     "revision": "e563484a3100c813f7f13a2a608b488c",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/andi-portfolio/static/media/9.882e5252.jpg"
   },
   {
-    "revision": "d2535586a3bd418be04bcd93457c1371",
+    "revision": "8182972f5c40c86864760c16ec837355",
     "url": "/andi-portfolio/index.html"
   }
 ];
