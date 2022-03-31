@@ -8,7 +8,7 @@ const Header = ({setCurrentPage})=> {
         <div className="header" id="header">
             <div className="wrapper">
                 <div className="left">
-                    <a href="/#Intro">
+                <a href="#Intro" onClick ={()=>setCurrentPage("home")}>
                     <img src={myLogo} className="my-2" style={{ width: "85%" }} alt="logo" />
                     </a>
                 </div>
