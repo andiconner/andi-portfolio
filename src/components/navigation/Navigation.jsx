@@ -1,5 +1,5 @@
 import React from "react";
-import myResume from '../../images/about/220111_andi_Conner.pdf';
+import myResume from '../../images/about/220407_andi_Conner.pdf';
 import './navigation.css';
 
 function Navigation ({setCurrentPage}){
