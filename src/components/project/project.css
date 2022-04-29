@@ -1,6 +1,6 @@
 .proj {
     width: 30%;
-    height: 80vh;
+    height: 95vh;
     margin: 20px 10px;
     border: 2px solid #ccc;
     border-radius: 10px 10px 0px 0px;
@@ -22,7 +22,7 @@
 
 }
 .proj-title{
-    margin-top: 20px;
+    margin-top: 40px;
     font-size: 18pt;
     color: #ea417f;
 }
@@ -34,7 +34,7 @@
     color: black;
     font-size: medium;
     margin-top: 10px;
-    padding: 5px 10px 5px 10px;
+    padding: 5px 10px 20px 10px;
 }
 .tech{
     color: black;
@@ -42,7 +42,20 @@
     margin-top: 10px;
     padding: 5px 10px 5px 10px;
 }
-
+.icons{
+    display:inline-block;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
+.fa-github{
+    padding-right: 10px;
+    font-size:x-large;
+}
+.fa-external-link-alt{
+  
+    font-size:x-large;
+}
 
 
 

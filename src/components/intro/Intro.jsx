@@ -12,16 +12,17 @@ const Intro = ({setCurrentPage})=> {
             <h1 className="i-name">Andi's corner!</h1> 
             <div className="i-title">
               <div className="i-title-wrapper">
-              <div className="i-title-item">Web Developer</div>
+              <div className="i-title-item">Full Stack Web Developer</div>
+              <div className="i-title-item">Front End</div>
               <div className="i-title-item">Graphic Design</div>
               <div className="i-title-item">Brand Design</div>
-              <div className="i-title-item">Digital Marketing</div>
               <div className="i-title-item">Photography</div>
             </div>
               
           </div>
           <p className="i-desc">
-          An entrepreneurial--spirited creative with a business edge focus, global mindset, and proven ability to deliver results that align client visions with business goals.
+          Full Stack Web Developer with a creative/entrepreneurial--mindset, business edge focus, and strong commitment to ongoing learning.
+          A dynamic and versatile professional with a “client-first” approach, dedicated to 100% client satisfaction every time.
           </p>
    
             <button onClick = {() => setCurrentPage("about")} className="i-button">Learn More</button>

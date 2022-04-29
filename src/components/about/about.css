@@ -6,14 +6,14 @@
 
 .a-left{
     flex: 1;
-    padding-top: 90px;
+    padding-top: 115px;
     
 }
 .a-title{
     padding: 20px 0px 20px 0px;
 }
 .a-desc{
-    padding: 20px 0px 20px 0px;
+    padding: 20px 60px 20px 0px;
 }
 
 .a-right{
