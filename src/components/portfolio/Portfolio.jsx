@@ -12,7 +12,7 @@ const Portfolio = () => {
             </div>
             <div className="p-list">
             {projects.map((item) =>(
-                <Project key={item.id} title={item.title} img={item.img} link={item.link}/>
+                <Project key={item.id} title={item.title} img={item.img} desc={item.desc}link={item.link} tech={item.tech} github={item.github} website={item.website}/>
                 ))}
                     
                     

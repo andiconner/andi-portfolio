@@ -1,6 +1,6 @@
 .proj {
     width: 30%;
-    height: 40vh;
+    height: 80vh;
     margin: 20px 10px;
     border: 2px solid #ccc;
     border-radius: 10px 10px 0px 0px;
@@ -22,12 +22,29 @@
 
 }
 .proj-title{
-    margin-top: 10px;
+    margin-top: 20px;
+    font-size: 18pt;
+    color: #ea417f;
 }
 
 .proj-img{
     width: 100%;
 }
+.desc{
+    color: black;
+    font-size: medium;
+    margin-top: 10px;
+    padding: 5px 10px 5px 10px;
+}
+.tech{
+    color: black;
+    font-size: medium;
+    margin-top: 10px;
+    padding: 5px 10px 5px 10px;
+}
+
+
+
 
 @media screen and (max-width: 480px) {
     .proj {

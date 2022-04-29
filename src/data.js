@@ -3,8 +3,11 @@ export const projects = [
     {
         id: 1,
         title: "Website - 5 Star",
-        link: "https://5sdms.com/",
         img:"1",
+        desc:"Wordpress website and brand identity developed for a digital marketing company as a freelance web/graphic designer.",
+        tech:"HTML, CSS, JavaScript, PHP",
+        website: "https://5sdms.com/",
+
     },
     {
         id: 2,
@@ -21,8 +24,11 @@ export const projects = [
     {
         id: 4,
         title: "MERN project - Alvandi Books",
-        link: "https://alvandi-books.herokuapp.com/",
         img: "4",
+        desc: "Interactive MERN SPA project for the Full Stack Web Development Boot Camp. ALVANDI Books is an online bookstore. A platform where we sell second-hand books at a discounted rate.",
+        tech: "JavaScript, Node.js, Express, React, Apollo Server, Graphql, Mongodb, Mongoose, Redux, JWT for authentication, Styled Components, Dotenv, Heroku",
+        github: "https://github.com/andiconner/alvandi-books.git",
+        website: "https://alvandi-books.herokuapp.com/",
     },
     {
         id: 5,

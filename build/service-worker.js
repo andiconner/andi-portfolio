@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/andi-portfolio/precache-manifest.3cb2903d244c1f010e901ac95d769ef0.js"
+  "/andi-portfolio/precache-manifest.7050db63957b440c409d0db99c4bfc28.js"
 );
 
 workbox.clientsClaim();
