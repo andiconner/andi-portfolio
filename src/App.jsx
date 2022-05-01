@@ -1,5 +1,6 @@
 import Intro from "./components/intro/Intro";
 import About from "./components/about/About";
+import Skills from "./components/skills/Skills";
 import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
 import Portfolio from "./components/portfolio/Portfolio";
@@ -14,6 +15,8 @@ const App = () => {
       return <Intro setCurrentPage = {setCurrentPage}/>
     }else if(currentPage === 'about'){
       return <About setCurrentPage={setCurrentPage}/>
+    }else if(currentPage === 'skills'){
+      return <Skills setCurrentPage={setCurrentPage}/>
     }else if (currentPage === 'portfolio'){
       return <Portfolio/>
     }else if (currentPage === 'contact'){

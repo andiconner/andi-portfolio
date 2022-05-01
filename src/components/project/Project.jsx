@@ -1,6 +1,6 @@
 import React from "react";
 import './project.css';
-import Github from "../../images/portfolio/github.svg"
+
 
 
 

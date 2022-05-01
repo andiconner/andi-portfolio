@@ -7,7 +7,7 @@ function Navigation ({setCurrentPage}){
     return(
         <nav className='navigation'>
             <ul className='flex-row'>
-            <li className="">
+            <li className="topnav responsive">
                     <a href="#Intro" onClick ={()=>setCurrentPage("home")}>
                     Home
                     </a>
@@ -17,7 +17,12 @@ function Navigation ({setCurrentPage}){
                     About me
                     </a>
                 </li>
-                <li className="">
+                <li className="topnav responsive">
+                    <a href="#skills" onClick = {()=> setCurrentPage("skills")}>
+                    Skills
+                    </a>
+                </li>
+                <li className="topnav responsive">
                     <a href="#portfolio" onClick = {()=> setCurrentPage("portfolio")}>
                     Portfolio
                     </a>
@@ -27,7 +32,7 @@ function Navigation ({setCurrentPage}){
                     Contact
                     </a>
                 </li>
-                <li className="">
+                <li className="topnav responsive">
                     <a href={myResume}   alt="Andi Conner resume" >
                     Resume
                     </a>
