@@ -24,9 +24,9 @@ const Intro = ({setCurrentPage})=> {
           Full Stack Web Developer with a creative/entrepreneurial--mindset, business edge focus, and strong commitment to ongoing learning.
           A dynamic and versatile professional with a “client-first” approach, dedicated to 100% client satisfaction every time.
           </p>
-   
-            <button onClick = {() => setCurrentPage("about")} className="i-button">Learn More</button>
-        
+          <div>
+            <button onClick = {() => setCurrentPage("about")} className="button">Learn More</button>
+          </div>
         </div>
         </div>
         <div className="i-right">

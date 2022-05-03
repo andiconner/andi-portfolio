@@ -14,7 +14,7 @@ import Dreamweaver from "../../images/icons/SVG/dreamweaver.svg";
 const Skills = ({setCurrentPage}) => {
   return(
         <section className='skills' id="skills">
-            <div className="s-title">
+            <div className="">
                 <h1 className="s-title">S K I L L S</h1>
                 <p></p>
             </div>
