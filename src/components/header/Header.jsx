@@ -1,5 +1,4 @@
 import React from "react";
-import "./header.css";
 import styled from "styled-components";
 import myLogo from "../../images/about/logo.svg";
 import { Navigation } from "../navigation/Navigation";
@@ -8,12 +7,16 @@ import { useMediaQuery } from "react-responsive";
 import { MobileNavigation } from "../navigation/mobileNavigation";
 
 const HeaderContainer = styled.div`
-  width: 100%;
-  height: 60px;
-  box-shadow: 0 1px 3px rgba(15, 15, 15, 0.13);
-  display: flex;
-  align-items: center;
-  padding: 0 1.5em;
+    width: 100%;
+    height: 70px;
+    padding-left: 2%;
+    position: fixed;
+    top:0px;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(15, 15, 15, 0.13);
+    display: flex;
+    align-items: center;
+    
 `;
 
 const LeftSection = styled.div`
@@ -24,6 +27,7 @@ const RightSection = styled.div`
   flex: 2;
   height: 100%;
   justify-content: right;
+  padding-right: 5%;
 
 `;
 

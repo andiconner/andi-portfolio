@@ -72,13 +72,23 @@ textarea{
     padding-left: 10px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 768px) {
     .c-wrapper {
         flex-direction: column;
+        align-items: center;
+    }
+    .c-left {
+        padding-left: 100px;
+    }
+    .c-right {
+        align-items: center;
+        padding-left: 100px;
+        
     }
     .c-title{
         width: 100%;
         font-size: 40px;
+        align-items: center;
     }
     .c-info-item{
     margin: 20px;
@@ -86,6 +96,15 @@ textarea{
     .c-desc{
         display: none;
     }
+    .c-bg {
+        display: none;
+    }
+    .message-box{
+        width: 70%;
+        clear:both;
+        padding-bottom: 50px;
+    }
+    
 
 
 }

@@ -36,14 +36,14 @@ button {
     color: #00B4D8;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 768px) {
     .a {
         flex-direction: column;
         text-align: center;
     }
 
     .a-left {
-        padding-top: 150px;
+        padding-top: 100px;
         width: 100%;  
         align-items: center;
         justify-content: center;
@@ -51,8 +51,9 @@ button {
         height: 30%;
     }
     .a-right{
-      padding: 0px;
+      padding: 300px;
       text-align: center;
+      width: 70%;
     }
     .action {
         flex-direction: column;
