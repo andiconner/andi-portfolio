@@ -48,10 +48,18 @@ button {
         align-items: center;
         justify-content: center;
         text-align: center;
-        height: 100%;
+        height: 30%;
     }
     .a-right{
-      padding: 50px;
+      padding: 0px;
+      text-align: center;
+    }
+    .action {
+        flex-direction: column;
+        text-align: center;
+    }
+    .button {
+        margin-top: 30px;
     }
 
 }

@@ -19,7 +19,7 @@ const Skills = ({setCurrentPage}) => {
                 <p></p>
             </div>
             <div className="s-list">
-            <h1 className="s-list">Programming Languages</h1>
+            <h1 className="s-cat">Programming Languages</h1>
               <div>
                 <i class="fa-brands fa-html5" style={{color: "#00B4D8"}}></i>
                 <h5>HTML5</h5>
@@ -35,7 +35,7 @@ const Skills = ({setCurrentPage}) => {
             </div>
 
             <div className="s-list">
-            <h1 className="s-list">Frameworks</h1>
+            <h1 className="s-cat">Frameworks</h1>
               <div>
                 <i class="fa-brands fa-react fa-spin" style={{color: "#00B4D8"}}></i>
                 <h5>React</h5>
@@ -55,7 +55,7 @@ const Skills = ({setCurrentPage}) => {
             </div> 
 
             <div className="s-list">
-            <h1 className="s-list">Databases</h1>
+            <h1 className="s-cat">Databases</h1>
               <div>
                 <i class="icon icon-mysql" style={{color: "#00B4D8"}}></i>
                 <h5>MySQL</h5>
@@ -66,7 +66,7 @@ const Skills = ({setCurrentPage}) => {
               </div>
             </div>
             <div className="s-list">
-              <h1 className="s-list">Miscellaneous</h1>
+              <h1 className="s-cat">Miscellaneous</h1>
               <div>
                 <i class="fa-brands fa-git-alt" style={{color: "#00B4D8"}}></i>
                 <h5>Git</h5>
@@ -84,13 +84,13 @@ const Skills = ({setCurrentPage}) => {
                 <h5>Heroku</h5>
               </div>
               <div>
-                <i class="fa-brands fa-wordpress" style={{color: "#00B4D8"}}></i>
+                <i class="fa-brands fa-wordpress fa-spin" style={{color: "#00B4D8"}}></i>
                 <h5>Wordpress</h5>
               </div>
             </div>
               
               <div className="s-list">
-              <h1 className="s-list">Adobe</h1>
+              <h1 className="s-cat">Adobe</h1>
                 <div>
                   <img src={CreativeCloud} className="" style={{ width: "20%" }} alt="Creative cloud logo"/>
                   <h5>Adobe Creative Cloud</h5>
