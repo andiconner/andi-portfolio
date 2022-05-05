@@ -1,5 +1,5 @@
 .a{
-    height: 800px;
+    
     display: flex;
     align-items: center;
 }
@@ -29,6 +29,7 @@
 .action{
     display:flex;
     justify-content:space-evenly;
+    padding-bottom: 50px;
 }
 
 button {
@@ -42,15 +43,11 @@ button {
     }
 
     .a-left {
-        padding-top: 100px;
-        width: 100%;  
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        height: 50%;
+        display:none;
+        
     }
     .a-right{
-      padding-top: 30px;
+      padding-top: 0px;
       text-align: center;
       width: 100%;
     }
