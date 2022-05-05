@@ -43,11 +43,14 @@ button {
     }
 
     .a-left {
-        display:none;
+        display:flex;
+        align-items: center;
+        padding-top: 75px;
         
     }
     .a-right{
-      padding-top: 0px;
+      margin-top:-100px;
+      padding-left:50px;
       text-align: center;
       width: 100%;
     }
