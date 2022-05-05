@@ -9,8 +9,6 @@ import Lightroom from "../../images/icons/SVG/lightroom.svg";
 import Dreamweaver from "../../images/icons/SVG/dreamweaver.svg";
 
 
-
-
 const Skills = ({setCurrentPage}) => {
   return(
         <section className='skills' id="skills">

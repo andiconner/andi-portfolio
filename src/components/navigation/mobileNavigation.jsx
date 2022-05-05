@@ -31,6 +31,7 @@ const LinkItem = styled.li`
   font-size: 16px;
   display: flex;
   margin-bottom: 10px;
+  margin-top: 20px;
 `;
 
 

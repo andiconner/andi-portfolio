@@ -18,16 +18,16 @@ const App = () => {
     }else if(currentPage === 'skills'){
       return <Skills setCurrentPage={setCurrentPage}/>
     }else if (currentPage === 'portfolio'){
-      return <Portfolio/>
+      return <Portfolio setCurrentPage={setCurrentPage}/>
     }else if (currentPage === 'contact'){
-        return <Contact/>
+        return <Contact setCurrentPage={setCurrentPage}/>
     }else {
       return <Intro setCurrentPage ={setCurrentPage}/>
     }
   }
   return (
     <div className='app'>
-    <Header setCurrentPage = {setCurrentPage}/> 
+    <Header setCurrentPage ={setCurrentPage}/> 
     <main>
       {showPage()}
     

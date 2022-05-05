@@ -28,7 +28,6 @@
 
 .action{
     display:flex;
-   
     justify-content:space-evenly;
 }
 
@@ -48,12 +47,12 @@ button {
         align-items: center;
         justify-content: center;
         text-align: center;
-        height: 30%;
+        height: 50%;
     }
     .a-right{
-      padding: 300px;
+      padding-top: 30px;
       text-align: center;
-      width: 70%;
+      width: 100%;
     }
     .action {
         flex-direction: column;

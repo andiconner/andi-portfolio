@@ -5,7 +5,7 @@ import  React, { useRef, useState } from 'react';
 import "./contact.css";
 import emailjs from '@emailjs/browser';
 
-const Contact = () => {
+const Contact = ({setCurrentPage}) => {
     const formRef = useRef()
     const [done, setDone] = useState(false)
 
@@ -28,7 +28,7 @@ const Contact = () => {
   
   return (
     <div className="c">
-        <div className="c-bg"></div>
+       
             <div className="c-wrapper">
                 <div className="c-left">
                     <h1 className="c-title">Let's talk about your next project</h1>
