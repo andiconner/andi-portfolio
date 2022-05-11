@@ -21,7 +21,7 @@ const About = ({setCurrentPage}) => {
             </p>
             
             <h4>
-              Thank you for visiting my site and willing to know more about me!
+              Thank you for visiting my website!
             </h4>
             <div className="action">
               <button onClick = {() => setCurrentPage("contact")} className="button">Reach Out</button>
