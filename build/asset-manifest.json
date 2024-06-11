@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andi-portfolio/static/css/main.f4cf05e6.css",
-    "main.js": "/andi-portfolio/static/js/main.09042814.js",
+    "main.js": "/andi-portfolio/static/js/main.16bc5fd7.js",
     "static/media/220407_andi_Conner.pdf": "/andi-portfolio/static/media/220407_andi_Conner.37e765480dfec9720152.pdf",
     "static/media/about_img.png": "/andi-portfolio/static/media/about_img.70efecae5d3def3c0104.png",
     "static/media/about_img_3.png": "/andi-portfolio/static/media/about_img_3.103f74bc1904097b9e09.png",
@@ -9,12 +9,10 @@
     "static/media/canton.jpg": "/andi-portfolio/static/media/canton.790637b02d574af177bc.jpg",
     "static/media/abone.jpg": "/andi-portfolio/static/media/abone.25d22aab7316042c860f.jpg",
     "static/media/techtalk.jpg": "/andi-portfolio/static/media/techtalk.79b5d8b17851413a2a60.jpg",
-    "static/media/pos.jpg": "/andi-portfolio/static/media/pos.c24b93e4217c428fd0ae.jpg",
     "static/media/lab870.jpg": "/andi-portfolio/static/media/lab870.2ce96137152cba085fdb.jpg",
     "static/media/peppers.jpg": "/andi-portfolio/static/media/peppers.f9dae5ea3883916ffd87.jpg",
     "static/media/pecans.jpg": "/andi-portfolio/static/media/pecans.5096950223538c4505eb.jpg",
     "static/media/results.jpg": "/andi-portfolio/static/media/results.5bc09626cd5bb924b34d.jpg",
-    "static/media/5star.jpg": "/andi-portfolio/static/media/5star.a9faca311a7ff60f4337.jpg",
     "static/media/alvandi.jpg": "/andi-portfolio/static/media/alvandi.dfa46c8cf185aef12808.jpg",
     "static/media/startus.jpg": "/andi-portfolio/static/media/startus.bd9df4bc646dd4ef9337.jpg",
     "static/media/weather.jpg": "/andi-portfolio/static/media/weather.780a1f536857e91f288a.jpg",
@@ -28,10 +26,10 @@
     "static/media/lightroom.svg": "/andi-portfolio/static/media/lightroom.c93c33cec30acb685b6b195a3c85d39d.svg",
     "static/media/bulma.svg": "/andi-portfolio/static/media/bulma.68231b4000512116513f3f8ad2569d47.svg",
     "main.f4cf05e6.css.map": "/andi-portfolio/static/css/main.f4cf05e6.css.map",
-    "main.09042814.js.map": "/andi-portfolio/static/js/main.09042814.js.map"
+    "main.16bc5fd7.js.map": "/andi-portfolio/static/js/main.16bc5fd7.js.map"
   },
   "entrypoints": [
     "static/css/main.f4cf05e6.css",
-    "static/js/main.09042814.js"
+    "static/js/main.16bc5fd7.js"
   ]
 }

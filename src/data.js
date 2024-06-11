@@ -47,33 +47,18 @@ export const projects = [
         github: "https://github.com/andiconner/weather-dashboard.git",
         website: "https://andiconner.github.io/weather-dashboard/",
     },
+
     {
         id: 6,
-        title: "5 Star Digital Marketing",
-        img:"5star",
-        desc:"Website and brand identity development for a digital marketing company as a freelance web/graphic designer in Indiana.",
-        tech:"Wordpress, HTML, CSS, JavaScript",
-        website: "https://5sdms.com/",
-
-    },
-    {
-        id: 7,
         title: "AB One",
         desc: "Website and brand identity development for a labor staffing company in Orlando",
         tech: "Wordpress, HTML, CSS, Adobe Illustrator and Photophop",
         website: "http://aboneflorida.com/",
         img: "abone",
     },
+    
     {
-        id: 8,
-        title: "POS Merchant Card Services",
-        desc: "Website for a merchant services provider in Indiana",
-        link: "https://posmcs.com/",
-        tech: "Wordpress, HTML, CSS, JavaScript",
-        img: "pos",
-    },
-    {
-        id: 9,
+        id: 7,
         title: "Lab870",
         desc: "Brand & Web design services for a Dental Lab in Port Orange, FL",
         website: "https://dentallab870.com/",
@@ -81,7 +66,7 @@ export const projects = [
         img: "lab870",
     },
     {
-        id: 10,
+        id: 8,
         title: " Pecan's",
         desc: "Brand & Web Design for a Spa in Coral Gables, FL",
         tech: "Wordpress, HTML, CSS, Adobe Illustrator and Photophop",
@@ -89,21 +74,21 @@ export const projects = [
         img: "pecans",
     },
     {
-        id: 11,
+        id: 9,
         title: "Results Medspa",
         desc: "Brand & Web Design for a Medspa",
         tech: "Wordpress, HTML, CSS, Adobe Illustrator, InDesign and Photophop",
         img: "results",
     },
     {
-        id: 12,
+        id: 10,
         title: "Pepper's Salon",
         desc: "Brand Design for a Salon & Spa",
         tech: "Adobe Illustrator, InDesign and Photophop",
         img: "peppers",
     },
     {
-        id: 13,
+        id: 11,
         title: "Canton",
         desc: "Brand Design & Photography for a Catering Company in Port Orange, FL",
         tech: "Adobe Illustrator, InDesign, Lightroom and Photophop",
